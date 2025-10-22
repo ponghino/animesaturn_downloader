@@ -10,12 +10,14 @@ Requirements:
 
 ____________________________________________________________________
 start.py:
-  - Main
+  - Main ()
   - 
 
 download.py:
-  - Main
-  - a
+  - search()
+  - grabPath()
+  - download()
+  - 
 
 config.ini:
   - path <-- in this path will be saved the downloads
