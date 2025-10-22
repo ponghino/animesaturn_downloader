@@ -3,7 +3,7 @@ This project is made only to learn
 
 
 Requirements:
--
+-python 3
 -
 -
 
@@ -13,7 +13,7 @@ start.py:
   - Main ()
   - 
 
-download.py:
+animesaturn.py:
   - search()
   - grabPath()
   - download()
