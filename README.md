@@ -3,7 +3,7 @@ This project is made only to learn
 
 
 Requirements:
--python 3
+- python 3
 -
 -
 
